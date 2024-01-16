@@ -4,7 +4,7 @@ Hi there 👋 I'm Samuel Vaz, a certified cybersecurity professional. I'm passio
 
 ## 📬 Get in Touch
 
-######Feel free to connect with me:
+###### Feel free to connect with me:
 
 <a href="https://linkedin.com/in/samuel-vaz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:samuelvaz1060@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/samuelvaz1060@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
