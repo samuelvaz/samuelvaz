@@ -9,14 +9,13 @@ Hi there 👋 I'm Samuel Vaz, a certified cybersecurity professional. I'm passio
 <a href="https://linkedin.com/in/samuel-vaz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:samuelvaz1060@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/samuelvaz1060@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ## 🧰 Skills
-- **Core Competencies:** Vulnerability and Risk Assessment, Penetration Testing, Incidence Response, Network 
-Forensics, Log Analysis, Compliance Testing, Cloud DevSecOps.
-- **Tools & Technologies:** Burpsuite, Wireshark, Metasploit, Nmap, Nikto, Dirbuster, Nessus, GitHub, MS Office suite, Eclipse IDE, 
-Apache Server, Django, phpMyAdmin, ELK.
-- **Cloud:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure.
-- **Programming & Scripting:** Python, Java, C/C++, SQL, HTML, CSS, JavaScript, PHP, CLI.
-- **Operating Systems:** Kali Linux, Ubuntu, iOS, Android, MacOS, Windows.
-- **Database:** SQL, MongoDB, Microsoft Access, MySQL.
+- **Core Competencies:** Vulnerability Assessment, Penetration Testing, Security Operations, Cloud Security, Incident Response, Log Analysis, DevSecOps, Application Security
+- **Tools:** CrowdStrike Falcon, Burp Suite, Wireshark, Metasploit, Nmap, Nessus, OWASP ZAP, Elastic Stack (ELK), Splunk, Docker, Jenkins, SonarQube, Terraform, Ansible
+- **Cloud Platforms:** AWS, Microsoft Azure, GCP
+- **Programming:** Python, PowerShell, Bash, SQL, HTML/CSS, JavaScript
+- **Frameworks:** CIS Critical Security Controls, NIST CSF, MITRE ATT&CK, ISO 27001
+![image](https://github.com/user-attachments/assets/67c93559-0b98-441a-b7a8-d34d698f32a4)
+
 
 ## 📚 Repositories
 
