@@ -14,7 +14,6 @@ Hi there 👋 I'm Samuel Vaz, a certified cybersecurity professional. I'm passio
 - **Cloud Platforms:** AWS, Microsoft Azure, GCP
 - **Programming:** Python, PowerShell, Bash, SQL, HTML/CSS, JavaScript
 - **Frameworks:** CIS Critical Security Controls, NIST CSF, MITRE ATT&CK, ISO 27001
-![image](https://github.com/user-attachments/assets/67c93559-0b98-441a-b7a8-d34d698f32a4)
 
 
 ## 📚 Repositories
