@@ -1,6 +1,6 @@
 # Samuel Vaz: Cybersecurity Professional 👨‍💻🔐
 
-Hi there 👋 I'm Samuel Vaz, a certified cybersecurity professional. I'm passionate about vulnerability and risk assessment, penetration testing, GRC, and software development. I love documenting and sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡
+Hi there 👋 I'm Samuel Vaz, a certified cybersecurity professional. I'm passionate about VAPT, Application and Product Security, GRC, and software development. I love documenting and sharing my knowledge and contributing to the tech community through my GitHub repositories. 🌐💡
 
 ## 📬 Get in Touch
 
